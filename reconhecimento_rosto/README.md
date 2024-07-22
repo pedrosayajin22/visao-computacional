@@ -17,8 +17,7 @@ Este script captura descritores faciais e os salva em um arquivo chamado face_en
 
 Execute o script de registro de faces:
 
-sh
-Copiar código
+
 python SalvaCara.py
 Posicione seu rosto na frente da webcam. O script capturará e salvará os descritores faciais.
 
@@ -29,8 +28,7 @@ Este script usa os descritores faciais salvos para reconhecer faces em tempo rea
 
 Execute o script de reconhecimento de faces:
 
-sh
-Copiar código
+
 python main.py
 Posicione seu rosto na frente da webcam. O script tentará reconhecer a face e mostrará uma mensagem se a face for reconhecida.
 
